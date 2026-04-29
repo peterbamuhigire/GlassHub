@@ -1,5 +1,9 @@
 # Phase 02: Xcode Project Foundation
 
+## Status
+
+In progress. See [status.md](status.md).
+
 ## Objective
 
 Convert the starter app into a production-ready Xcode foundation with correct targets, build settings, signing posture, entitlements, dependencies, and development workflow.

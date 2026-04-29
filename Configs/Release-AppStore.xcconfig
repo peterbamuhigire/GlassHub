@@ -1,0 +1,8 @@
+#include "Base.xcconfig"
+
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = APPSTORE $(inherited)
+SWIFT_COMPILATION_MODE = wholemodule
+DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+
+// Sparkle and direct-download update code must not be linked in this configuration.
+GLASSHUB_ENABLE_SPARKLE = NO

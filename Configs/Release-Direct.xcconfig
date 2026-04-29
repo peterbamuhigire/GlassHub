@@ -1,0 +1,8 @@
+#include "Base.xcconfig"
+
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = DIRECT_DOWNLOAD SPARKLE $(inherited)
+SWIFT_COMPILATION_MODE = wholemodule
+DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+
+// This build may include Sparkle after the package is added in Xcode.
+GLASSHUB_ENABLE_SPARKLE = YES
