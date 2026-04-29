@@ -1,6 +1,6 @@
 # GlassHub
 
-GlassHub is a native macOS GitHub repository manager by Chwezi / Byoosi.com Ltd. It is built with Xcode, Swift, SwiftUI, and AppKit integration points where native macOS APIs are needed.
+GlassHub is a native macOS GitHub repository manager by Peter Bamuhigire. It is built with Xcode, Swift, SwiftUI, and AppKit integration points where native macOS APIs are needed.
 
 This repository has been kickstarted as a runnable macOS SwiftUI app shell that follows the product specification:
 
