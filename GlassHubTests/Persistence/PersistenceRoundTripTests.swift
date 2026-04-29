@@ -21,7 +21,7 @@ final class PersistenceRoundTripTests: XCTestCase {
 
         let repo = StoredRepository(
             name: "GlassHub",
-            owner: "byoosi",
+            owner: "chwezicore",
             path: "/Users/test/Sites/GlassHub",
             currentBranch: "main",
             syncStatusRaw: "Synced",

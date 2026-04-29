@@ -10,7 +10,7 @@
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.byoosi.glasshub</string>
+		<string>$(AppIdentifierPrefix)com.chwezicore.glasshub</string>
 	</array>
 </dict>
 </plist>

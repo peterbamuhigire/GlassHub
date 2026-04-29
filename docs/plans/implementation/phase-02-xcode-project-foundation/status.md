@@ -24,7 +24,7 @@ In progress. The repository foundation is scaffolded; final package resolution a
 
 ## Project Updates
 
-- Bundle identifier set to `com.byoosi.glasshub`.
+- Bundle identifier set to `com.chwezicore.glasshub`.
 - macOS deployment target remains `14.0`.
 - App target points at `GlassHub/Resources/GlassHub.entitlements`.
 - User-selected file access is read/write for repository workflows.

@@ -8,8 +8,8 @@ enum SampleData {
     ]
 
     static let repositoryGroups: [RepositoryGroup] = [
-        RepositoryGroup(name: "Recently Opened", repositories: [glassHub, byoosiAPI]),
-        RepositoryGroup(name: "Chwezi", repositories: [kampuspad])
+        RepositoryGroup(name: "Recently Opened", repositories: [glassHub, chwezicoreAPI]),
+        RepositoryGroup(name: "Chwezi Core", repositories: [kampuspad])
     ]
 
     static let glassHub = Repository(
@@ -41,10 +41,10 @@ enum SampleData {
         weeklyActivity: weeklyActivity()
     )
 
-    static let byoosiAPI = Repository(
-        name: "Byoosi API",
-        owner: "Byoosi.com Ltd",
-        path: "~/Developer/byoosi-api",
+    static let chwezicoreAPI = Repository(
+        name: "Chwezi Core API",
+        owner: "Chwezi Core Systems",
+        path: "~/Developer/chwezicore-api",
         currentBranch: "release/v1",
         syncStatus: .synced,
         languageBreakdown: [

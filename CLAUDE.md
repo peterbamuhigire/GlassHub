@@ -17,7 +17,7 @@ Treat its contents as binding project conventions.
 
 ## Tech and Targets
 
-- Bundle id: `com.byoosi.glasshub`
+- Bundle id: `com.chwezicore.glasshub` (Chwezi Core Systems)
 - macOS deployment target: `14.0` (SwiftData, `@Observable`, `@ModelActor`
   available — use them)
 - Build configurations: `Debug`, `Beta`, `Release-AppStore`,
